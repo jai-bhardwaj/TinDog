@@ -153,6 +153,7 @@ p{
 
 .social-icon{
     margin: 20px 12px;
+    cursor: pointer;
 }
 
 @media (max-width: 991px) {
